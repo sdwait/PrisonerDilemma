@@ -6,7 +6,7 @@ N = 100
 M = 5
 P = 5
 K = 20
-CSV = true # Make it easy to import into excel?
+CSV = false # Make it easy to import into excel?
 
 ### CLASS BACKBONE
 class Player 
